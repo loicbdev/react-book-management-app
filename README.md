@@ -1,4 +1,4 @@
-# tuto : React CRUD App Tutorial – How to Build a Book Management App in React from Scratch
+# React CRUD App Tutorial – How to Build a Book Management App in React from Scratch
 
 <https://www.freecodecamp.org/news/react-crud-app-how-to-create-a-book-management-app-from-scratch/>
 
